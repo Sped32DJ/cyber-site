@@ -69,13 +69,13 @@ export default {
           description: `Hi, I'm Jacob! I am a third year Computer Science major and the treasurer for cyber@ucr. I  manage the funds for our social events, and merch. If you have any questions about the club, reach out to me on Instagram!`,
 
         },
-        //{
-        //  name: "Celso Lopez",
-        //  image: require("~/assets/officers/blank.png"),
-        //  position: "Outreach Director",
-        //  email: "@ucr.edu",
-        //  description: `Lorem ipsum dolor sit amet,`,
-        //},
+        {
+          name: "Celso Lopez",
+          image: require("~/assets/officers/celso.png"),
+          position: "Outreach Director",
+          email: "clope375@ucr.edu",
+          description: `Hello, my name is Celso Lopez. I am a second year computer science major. I specialize in Linux systems and am currently interested in Cloud Security. Feel free out to reach out to me on Discord @compscilopez!`,
+        },
         //        {
         //          name: "Chloe Au",
         //          image: require("~/assets/officers/chloe.jpg"),
