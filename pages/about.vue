@@ -62,6 +62,23 @@
 
         <div class="row">
           <div class="eight wide column">
+            <h3 class="ui header">2026 Lockdown Team</h3>
+            <p>Cyber@UCR at Lockdown! </p>
+            <p>
+              Team:
+              Ava, Felicia, James, Zach, Siddharth, Hyrum
+            </p>
+          </div>
+          <div class="six wide right floated column">
+            <img
+              class="ui large bordered rounded image"
+              src="~/assets/competitions/lockdown2026.jpg"
+            />
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="eight wide column">
             <h3 class="ui header">2026 CCDC Team</h3>
             <p>Cyber@UCR at CCDC! 
               
